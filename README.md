@@ -36,7 +36,7 @@ maka output nya adalah
 
 <img width="263" alt="output lat 2" src="https://user-images.githubusercontent.com/115518274/197449937-1dccebab-f39b-4acb-a95d-583fc9e0058f.png">
 
-#LATIHAN 3
+# LATIHAN 3
 
 1. Garis IDLE
 
